@@ -1,7 +1,7 @@
 ![Mirija_cover](https://user-images.githubusercontent.com/36816520/103216787-2a702480-4917-11eb-8595-da3b66a465e5.png)
-## Hi I'm Mirija <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I'm Mirija <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Full Stack Web Developer. I Spend most of time in front of my computer (coding, gaming, watching series or anime).
+I'm a Web Developer. I Spend most of time in front of my computer (coding, gaming, watching series or anime).
 
 :mailbox: Reach me out!
 
