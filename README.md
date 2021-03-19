@@ -16,7 +16,7 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![csharp Badge](https://img.shields.io/badge/-Asp.net-3C873A?style=for-the-badge&labelColor=black&logo=asp.net&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Aspnet Badge](https://img.shields.io/badge/-Asp.net-3C873A?style=for-the-badge&labelColor=black&logo=asp.net&logoColor=3C873A)](#)
 
 ### skills & tools
 
