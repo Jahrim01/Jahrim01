@@ -7,7 +7,7 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 [![Facebook Badge](https://img.shields.io/badge/-@Mirija_A-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/Jahrim.Vals/)](https://www.facebook.com/Jahrim.Vals/) [![Linkedin Badge](https://img.shields.io/badge/-Mirija-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirija-andrianalizandry/) [![Mail Badge](https://img.shields.io/badge/-@mirija_a-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mirija_a/) [![Mail Badge](https://img.shields.io/badge/-mirija160798-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mirija160798@gmail.com)
 
-- 🔭 I’m currently learning MERN stack (MongoDB ExpressJS ReactJs NodeJs) .
+- 🔭 I’m currently learning ASP.NET MVC.
 - 🤔 I’m looking for IT full-time job or freelance job and of course an internship.
 - 📫 How to reach me: mirija160798@gmail.com.
 - ⚡ Fun fact: I love mangas and univers of gaming.
@@ -16,7 +16,7 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Aspnet Badge](https://img.shields.io/badge/-Asp.net-3C873A?style=for-the-badge&labelColor=black&logo=asp.net&logoColor=3C873A)](#)
 
 ### skills & tools
 
@@ -40,11 +40,15 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-<img align="left" alt="Git" width="26px" src="https://mirija-portfolio.netlify.app/images/icon_codeigniter.png" />
+<img align="left" alt="codeigniter" width="26px" src="https://mirija-portfolio.netlify.app/images/icon_codeigniter.png" />
 
-<img align="left" alt="Git" width="26px" src="https://mirija-portfolio.netlify.app/images/icons8_adobe_photoshop_48px.png" />
+<img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+
+<img align="left" alt="aspnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
+
+<img align="left" alt="PS" width="26px" src="https://mirija-portfolio.netlify.app/images/icons8_adobe_photoshop_48px.png" />
 
 <br />
 <br />
