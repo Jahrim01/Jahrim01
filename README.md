@@ -7,7 +7,7 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 [![Facebook Badge](https://img.shields.io/badge/-@Mirija_A-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/Jahrim.Vals/)](https://www.facebook.com/Jahrim.Vals/) [![Linkedin Badge](https://img.shields.io/badge/-Mirija-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirija-andrianalizandry/) [![Mail Badge](https://img.shields.io/badge/-@mirija_a-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mirija_a/) [![Mail Badge](https://img.shields.io/badge/-mirija160798-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mirija160798@gmail.com)
 
-- 🔭 I’m currently learning ASP.NET MVC.
+- 🔭 I’m currently learning REACT NATIVE.
 - 🤔 I’m looking for IT full-time job or freelance job and of course an internship.
 - 📫 How to reach me: mirija160798@gmail.com.
 - ⚡ Fun fact: I love mangas and univers of gaming.
