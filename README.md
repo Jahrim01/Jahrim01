@@ -7,8 +7,8 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 [![Facebook Badge](https://img.shields.io/badge/-@Mirija_A-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/Jahrim.Vals/)](https://www.facebook.com/Jahrim.Vals/) [![Linkedin Badge](https://img.shields.io/badge/-Mirija-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirija-andrianalizandry/) [![Mail Badge](https://img.shields.io/badge/-@mirija_a-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mirija_a/) [![Mail Badge](https://img.shields.io/badge/-mirija160798-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mirija160798@gmail.com)
 
-- 🔭 I’m currently learning REACT NATIVE.
-- 🤔 I’m looking for IT full-time job or freelance job and of course an internship.
+- 🔭 I’m currently learning .NET MAUI and .NET core.
+- 🤔 I’m looking for IT full-time job or freelance job.
 - 📫 How to reach me: mirija160798@gmail.com.
 - ⚡ Fun fact: I love mangas and univers of gaming.
 
@@ -20,7 +20,6 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 ### skills & tools
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -32,21 +31,17 @@ I'm a Web Developer. I Spend most of time in front of my computer (coding, gamin
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
-<img align="left" alt="codeigniter" width="26px" src="https://mirija-portfolio.netlify.app/images/icon_codeigniter.png" />
+<img align="left" alt="SQLServer" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 <img align="left" alt="aspnet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
+
+<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 
 <img align="left" alt="PS" width="26px" src="https://mirija-portfolio.netlify.app/images/icons8_adobe_photoshop_48px.png" />
 
